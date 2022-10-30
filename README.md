@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kubernetes, DevOps , cloud computing, cybersecurity and web development.
 - 🌱 I’m currently learning social engineering.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me ...
+- 📫 You reach me on [Linkedin](https://www.linkedin.com/in/oussema-mhiri/)
 
 <!---
 Ryder05/Ryder05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
